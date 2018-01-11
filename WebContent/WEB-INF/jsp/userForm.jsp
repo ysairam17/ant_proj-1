@@ -53,6 +53,10 @@
 		<tr>
 			<td colspan="2"><input type="submit"></td>
 		</tr>
+		<tr>
+			<td> City :</td>
+			<td><form:input path="city" /></td>
+		</tr>
 	</table>
 </form:form>
 
