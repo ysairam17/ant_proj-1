@@ -54,9 +54,9 @@
 			<td colspan="2"><input type="submit"></td>
 		</tr>
 		<tr>
-			<td> City :</td>
-			<td><form:input path="city" /></td>
-		</tr>
+			<td> State :</td>
+			<td><form:input path="state" /></td>
+		</tr>		
 	</table>
 </form:form>
 
