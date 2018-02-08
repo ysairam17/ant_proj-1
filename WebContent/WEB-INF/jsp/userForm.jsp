@@ -31,7 +31,9 @@
 				<form:option value="1" label="HYD" />
 				<form:option value="2" label="CHN" />
 				<form:option value="3" label="BLR" />
-				<form:option value="7" label="VIJ" />
+				<form:option value="4" label="VIJ" />
+				<form:option value="5" label="GNT" />
+			
 			</form:select></td>
 		</tr>
 		<tr>
